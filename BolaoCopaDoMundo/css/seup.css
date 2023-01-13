@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,100;1,200;1,300&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+section{
+  background-color:  #500F21;
+}
+.top-r{
+  margin-top: 5rem;
+border-radius: 60px;
+}
+.sec-edit{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.btn-edit a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  
+}
+.btn-edit a:hover{
+  color: #fff;
+}
+.sec-edit h6{
+  padding: 10px;
+  font-size: 15pt;
+  font-weight: 400;
+}
+#img-time{
+  width: 100px;
+  margin-top: 30px;
+  
+}
+#white{
+  color: #ffffff;
+  font-size: 40pt;
+}
+.sec-edit span{
+  flex-direction: column;
+}
+.link-itens {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+.colum-edit{
+  display: flex;
+  flex-direction: column;
+}
+.icone{
+  color: #fff;
+  font-size: 20pt;
+}
+.rusul{
+  padding: 10px;
+  width: 40px;
+  height: 30px;
+  border-radius: 65px;
+  border-color: #818080;
+  font-size: 10pt;
+  text-align: center;
+  align-items: center;
+}
+.black-edit{
+  border-radius: 67px;
+  background: #e0e0e0;
+  box-shadow: inset -18px 18px 36px #b3b3b3,
+              inset 18px -18px 36px #ffffff;
+}
+.black-edit1{
+  border-radius: 67px;
+  background: #e0e0e0;
+  box-shadow: inset -18px 18px 36px #b3b3b3,
+              inset 18px -18px 36px #ffffff;
+}
+.link-itens p{
+  padding: 5px;
+  font-size: 9pt;
+}
+  #acerto{
+    color: #fff;
+    margin-top: 5rem;
+    font-size: 20pt;
+
+  }
+  .img-logob{
+    width: 100px;
+  }

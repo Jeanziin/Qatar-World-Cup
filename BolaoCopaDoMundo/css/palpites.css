@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600;900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+    
+}
+h1{
+  color: #fff;
+}
+
+.img-logob{
+  width: 80px;
+}
+.cont2-edit{
+  border-radius: 50px;
+}
+.inpt{
+
+  align-items: center;
+  border-color: #500F21;
+}
+.cont2-edit{
+  background-color: rgb(249, 246, 246);
+  border-radius: 50px;
+  margin-bottom: 5rem;
+  
+
+}
+.edit_btn a{
+  text-decoration: none;
+  color: #fff;
+}
+.btn-edit a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  
+}
+.btn-edit a:hover{
+  color: #fff;
+}
+.text-info{
+  font-size: 10pt;
+  color: #fff;
+
+}
+    #vs{
+      font-size: 20pt;
+      width: 50px;
+    }
+    input{
+      padding: 7px;
+      width: 60px;
+      height: 40px;
+      border-radius: 100px;
+      border-color: #500F21 solid;
+      text-align: center;
+    }
+    .btn-edit a{
+      text-decoration: none;
+      color: #fff;
+      font-weight: 600;
+      
+    }
+    .btn-edit a:hover{
+      color: #fff;
+    }
+    .btn-edit{
+      margin-bottom: 4rem;
+      margin-top: 2rem;
+    }
+    .btn-clas{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    #butao{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+
+    }
+  

@@ -1,0 +1,25 @@
+#sections{
+  background-color: rgb(254, 254, 254);
+  height: 1000px;
+}
+#h1{
+font-size: 110px;
+margin-bottom: 15px;
+  
+}
+.edit_btn{
+  width: 120px;
+  color: #fff;
+}
+.edit_btn a{
+  color: #fff;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+#h2{
+margin-bottom: 10px;
+}
+#pw{
+  margin-bottom: 20px;
+  font-weight: 600;
+}

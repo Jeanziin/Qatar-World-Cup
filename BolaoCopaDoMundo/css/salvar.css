@@ -1,0 +1,19 @@
+
+#h1{
+  font-size: 80px;
+}
+.edit_btn a{
+  text-decoration: none;
+  color: #000;
+} 
+.edit_btn a:hover{
+  color: #000;
+}
+#img-e{
+  width: 500px;
+}
+.div-2 h1{
+  margin-top: 15rem;
+
+}
+
